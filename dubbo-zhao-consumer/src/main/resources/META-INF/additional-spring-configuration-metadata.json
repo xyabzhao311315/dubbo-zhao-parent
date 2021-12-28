@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "dubbo.timeout",
+  "type": "java.lang.String",
+  "description": "A description for 'dubbo.timeout'"
+}]}
